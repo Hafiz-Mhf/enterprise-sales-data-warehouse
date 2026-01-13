@@ -56,10 +56,10 @@ This project demonstrates the end-to-end development of a **Data Warehouse** uti
 ## 📂 Repository Structure
 
 ```text
-├── documentation/      # Star Schema design documents and Data Profiling reports
-├── images/             # Power BI dashboard screenshots and Schema diagrams
-├── README.md           # Project documentation
-└── Northwind_BI.pbix   # Power BI project file
+├── documentation/                      # Star Schema design documents and Data Profiling reports
+├── images/                             # Power BI dashboard screenshots and Schema diagrams
+├── README.md                           # Project documentation
+└── Northwind_Sales_BI_Analytics.pbix   # Power BI project file
 
 ```
 
