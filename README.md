@@ -56,7 +56,6 @@ This project demonstrates the end-to-end development of a **Data Warehouse** uti
 ## 📂 Repository Structure
 
 ```text
-├── data/               # Raw SQL scripts and cleaned datasets
 ├── documentation/      # Star Schema design documents and Data Profiling reports
 ├── images/             # Power BI dashboard screenshots and Schema diagrams
 ├── README.md           # Project documentation
