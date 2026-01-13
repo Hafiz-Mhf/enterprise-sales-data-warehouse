@@ -1,0 +1,16 @@
+# Power BI temporary files
+*.pbit
+*.pbix.Gallery
+
+# SQL Server temporary files
+*.tmp
+*.bak
+*.log
+
+# Windows and system metadata
+Thumbs.db
+.DS_Store
+
+# Office Temporary Files (if you have documentation open)
+~$*.docx
+~$*.xlsx
