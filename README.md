@@ -65,7 +65,6 @@ This project demonstrates the end-to-end development of a **Data Warehouse** uti
 
 ## 📥 Getting Started
 
-1. **Database:** Execute the SQL scripts in the `/data` folder to view the Star Schema structure.
-2. **Dashboard:** Open `Northwind_BI.pbix` in Power BI Desktop to interact with the sales analytics.
+1. **Dashboard:** Open `Northwind_Sales_BI_Analytics.pbix` in Power BI Desktop to interact with the sales analytics.
 
 ---
