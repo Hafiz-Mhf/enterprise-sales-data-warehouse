@@ -1,5 +1,3 @@
-# enterprise-sales-data-warehouse
-
 # 🛒 Enterprise Sales Data Warehouse & BI Dashboard
 
 ### *Architecting a Scalable Star Schema for Global Retail Analytics*
